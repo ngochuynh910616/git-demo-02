@@ -25,8 +25,6 @@ Mobile.tap(findTestObject('Object Repository/android.widget.TextView - SMS Messa
 
 Mobile.setText(findTestObject('Object Repository/android.widget.EditText'), '12', 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.EditText (1)'), 0)
-
 Mobile.setText(findTestObject('Object Repository/android.widget.EditText (2)'), '123', 0)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.Button - Send'), 0)
